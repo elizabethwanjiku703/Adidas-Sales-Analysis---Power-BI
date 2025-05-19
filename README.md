@@ -74,7 +74,7 @@ This project focuses on analyzing Adidas sales performance across regions, retai
 
 # Dashboard
 
-![Sales Overview]([https://www.kaggle.com/datasets/ahmedabbas757/dataset](https://github.com/elizabethwanjiku703/Adidas-Sales-Analysis---Power-BI/blob/main/Sales%20Overview%20Analysis.jpg))
+![Sales Overview](https://github.com/elizabethwanjiku703/Adidas-Sales-Analysis---Power-BI/blob/main/Sales%20Overview%20Analysis.jpg)
 
 ---
 

@@ -76,6 +76,7 @@ This project focuses on analyzing Adidas sales performance across regions, retai
 
 ![Sales Overview](https://github.com/elizabethwanjiku703/Adidas-Sales-Analysis---Power-BI/blob/main/Sales%20Overview%20Analysis.jpg)
 
+> 📍 *Optional:* [Click here to view the dashboard online](https://app.powerbi.com/view?r=eyJrIjoiMWQ2NTZlYTUtZmQ5MC00MTYzLTk1YzctODc5NDU2YzllNmZmIiwidCI6ImJmZmI5NzQ4LTRhNTEtNDRjOC05MjBmLTkzOGFjNDc5NzFlNSJ9) *(if hosted on Power BI Service or elsewhere)*
 ---
 
 ## 📅 Time-Series Trends
